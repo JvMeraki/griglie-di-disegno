@@ -1,0 +1,17 @@
+{
+  "name": "Gridline",
+  "short_name": "Gridline",
+  "description": "A browser-based editor for preparing drawing references with customizable grids.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef1f2",
+  "theme_color": "#eef1f2",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
